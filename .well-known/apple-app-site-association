@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["36A9553YDX.com.dreamaru.photorium"],
+        "components": [
+          { "/": "/Dreamaru/photorium/*", "?": { "invite": "*" } }
+        ]
+      }
+    ]
+  }
+}

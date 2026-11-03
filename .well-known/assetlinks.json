@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dreamaru.photorium",
+      "sha256_cert_fingerprints": [
+        "96:BE:87:F8:17:6B:5E:5B:78:D4:B5:18:A4:99:F4:74:FC:34:92:A9:73:D4:6F:26:17:A7:BA:E9:BA:74:44:80"
+      ]
+    }
+  }
+]
