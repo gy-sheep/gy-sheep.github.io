@@ -5,6 +5,10 @@
       "namespace": "android_app",
       "package_name": "com.dreamaru.photorium",
       "sha256_cert_fingerprints": [
+        "DF:1B:F2:7F:FC:9B:5D:D6:1F:45:B5:23:DF:0E:A0:4D:C2:E4:94:DB:41:94:EB:F2:1C:B7:14:60:3D:45:B9:36",
+        "E9:FA:E7:F7:0D:74:9C:C6:ED:B9:5D:36:1F:A0:13:77:80:B7:A2:9A:7B:98:80:2D:7D:28:99:54:ED:01:B9:3D",
+        "37:38:37:03:9E:FB:84:14:65:D6:AF:19:C8:4B:7C:84:9E:26:57:D5:4E:BB:B4:70:9E:6D:0C:47:33:86:D8:1A",
+        "F9:42:B7:4D:23:3F:CA:4C:EC:0E:3F:68:39:43:68:C6:CC:07:98:EC:B4:AB:A1:54:AB:10:06:CA:42:7F:18:12",
         "96:BE:87:F8:17:6B:5E:5B:78:D4:B5:18:A4:99:F4:74:FC:34:92:A9:73:D4:6F:26:17:A7:BA:E9:BA:74:44:80"
       ]
     }
